@@ -1,0 +1,1340 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "disco_lu",
+    "displayName": "Luis",
+    "profession": "Designer Advocate, Figma",
+    "location": "London",
+    "pronouns": "He/Him",
+    "byline": "Designer Advocate, Figma in London, He/Him",
+    "website": "lineswritten.co.uk",
+    "websiteURL": "http://lineswritten.co.uk",
+    "about": "Designer, newsletter writer(er), podcaster, ❖",
+    "status": {
+      "text": "Just published a shadcn UI kit for Figma! https://www.figma.com/community/file/1414738876845632189/shadcn-figma-kit",
+      "emoji": "💠",
+      "timestamp": "2024-12-18T13:13:33.265Z"
+    },
+    "sectionOrder": [
+      "Projects",
+      "Side Projects",
+      "Speaking",
+      "Writing",
+      "Features",
+      "Work Experience",
+      "Awards",
+      "Education",
+      "Contact",
+      "Exhibitions",
+      "Volunteering",
+      "Certifications",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "VmBHkcQfNGmYIlNU3xMx",
+      "year": "2024",
+      "heading": "shadcn Figma Kit",
+      "url": "https://www.figma.com/community/file/1414738876845632189/shadcn-figma-kit",
+      "collaborators": [],
+      "description": "A starter for anyone looking to build using the popular shadcn framework. It's a (very close!) 1:1 match between Figma and the shadcn documentation, including:\n\n1. Variables for color, size, and typography\n\n2. Styles for text and effects\n\n3. Components\n\n4. Icons\n\n5. Example pattern blocks e.g. a login form\n\n6. Page templates as components",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/shadcn-Figma-Kit.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "shadcn Figma Kit",
+      "company": ""
+    },
+    {
+      "id": "xv6lGAfJyTXCwWuL0i4F",
+      "year": "2024",
+      "heading": "Simple Design System at Figma",
+      "url": "https://www.figma.com/community/file/1380235722331273046/simple-design-system",
+      "collaborators": [
+        {
+          "displayName": "jake",
+          "profilePhoto": "/content/collaborators/jak_e.jpg",
+          "profileURL": "https://read.cv/jak_e"
+        }
+      ],
+      "description": "SDS was a first for Figma – a UI and code-backed design system available within Figma, alongside Apple's iOS and Material's kits.\n\nIt's a base design system that shows how Figma’s Variables, Styles, Components, and Code Connect can be used alongside a React codebase to form a complete picture of a responsive web design system.\n\nKey features include:\n\n* 400+ components, backed by code (Code Connect available on paid plans only)\n\n* Styles and variables support, including light and dark mode\n\n* Examples – Full screen mockups that can be inserted into your file to go from blank page to polished designs quickly\n\n* Feather icons",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 960,
+          "height": 540,
+          "url": "/content/media/Simple-Design-System-at-Figma.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Simple Design System",
+      "company": "Figma"
+    },
+    {
+      "id": "3hyILySPPwiV9C4jf1ME",
+      "year": "2024",
+      "heading": "My First Variable at Figma",
+      "url": "https://www.youtube.com/playlist?list=PLXDU_eVOJTx6V9PNAxvagzaMWHDFOsYQI",
+      "collaborators": [],
+      "description": "A 10 part video series pitched, recorded, and published for the Figma YouTube channel, walking you through how to use the Variables feature.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 960,
+          "height": 540,
+          "url": "/content/media/My-First-Variable-at-Figma.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "My First Variable",
+      "company": "Figma"
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "eW5szTkHy2alN5cgarBu",
+      "year": "Ongoing",
+      "heading": "Milk, No Sugar",
+      "url": "http://milknosugar.substack.com",
+      "collaborators": [],
+      "description": "My newsletter where I'm trying to remove small talk from conversations, one piece of content at a time.\n\nI highlight something to think about, 3 articles, and a podcast for you to digest.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Milk, No Sugar",
+      "company": ""
+    },
+    {
+      "id": "MVsRvFyq9M3TrlWZ2KB2",
+      "year": "Ongoing",
+      "heading": "Design and Whine",
+      "url": "https://anchor.fm/design-and-whine",
+      "collaborators": [
+        {
+          "displayName": "Au",
+          "profilePhoto": "/content/collaborators/auareyou.jpg",
+          "profileURL": "https://read.cv/auareyou"
+        }
+      ],
+      "description": "A podcast by designers, where we don't talk about design.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Design and Whine",
+      "company": ""
+    },
+    {
+      "id": "rBUPqJd9SNUUgTrg1wpI",
+      "year": "Ongoing",
+      "heading": "8px Radio",
+      "url": "https://open.spotify.com/show/109siO7k8TblAWvQpEB1PB?si=065f760e16c94098",
+      "collaborators": [],
+      "description": "My podcast where I interview designers and ask them all the same 5 questions.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "8px Radio",
+      "company": ""
+    },
+    {
+      "id": "PAep4V3yzkNnj5cyytv8",
+      "year": "2020",
+      "heading": "Unmasked at 8px",
+      "url": "https://unmasked.8px.design/",
+      "collaborators": [],
+      "description": "British companies where you can buy face coverings from, in the wake of COVID-19.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Unmasked",
+      "company": "8px"
+    },
+    {
+      "id": "Z9Kw6u6cn3HYZDdidDlu",
+      "year": "2019",
+      "heading": "Shop Indie at 8px",
+      "url": "https://shopindie.8px.design/",
+      "collaborators": [],
+      "description": "A directory of products from smaller global producers.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Shop Indie",
+      "company": "8px"
+    },
+    {
+      "id": "6yfNSBEFNpzH97K3km9H",
+      "year": "2018",
+      "heading": "Noise Podcast",
+      "url": "http://anchor.fm/thenoisepod",
+      "collaborators": [],
+      "description": "Podcast series speaking with designesr across the globe about their passions.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Noise Podcast",
+      "company": null
+    },
+    {
+      "id": "ZMdrnkexaLdgvsGp5OB6",
+      "year": "2017",
+      "heading": "Sketch Typography Starter Kit at 8px",
+      "url": "http://8px.design/typography-starter-kit/",
+      "collaborators": [],
+      "description": "A freebie where designers can save time with their typography system. Hosting the resource on Gumroad, I landed 553 sales.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Sketch Typography Starter Kit",
+      "company": "8px"
+    },
+    {
+      "id": "qWpf4H6apYnGpqzvImzq",
+      "year": "2017",
+      "heading": "Junior Design Jobs at 8px",
+      "url": "http://juniordesignjobs.com",
+      "collaborators": [],
+      "description": "Junior jobs are scarce, so I built a website to list only junior jobs in London. I originally had jobs from major cities across the globe, but the site was hacked and I had to start from scratch 😭",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Junior Design Jobs",
+      "company": "8px"
+    },
+    {
+      "id": "g49l7wCkYsw2V8hfHXNg",
+      "year": "2017",
+      "heading": "8px Magazine",
+      "url": "http://medium.com/8px-magazine",
+      "collaborators": [],
+      "description": "Publication to showcase the human side of designers.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "8px Magazine",
+      "company": null
+    }
+  ],
+  "exhibitions": [],
+  "talks": [
+    {
+      "id": "MeJa28rRfg5amIjXotaA",
+      "year": "2024",
+      "heading": "Grids are boring and other thoughts on design systems at Friends of Figma, Berlin",
+      "url": "https://friends.figma.com/events/details/figma-berlin-presents-grids-are-boring-and-other-design-system-opinions-feat-luis-from-figma/",
+      "collaborators": [],
+      "description": "My take on how the 8px grid system could be shaken up by using odd numbers.\n\nSlides here: <https://www.figma.com/community/file/1439231393000952196/friends-of-figma-berlin-grids-are-boring>",
+      "attachments": [],
+      "type": "talk",
+      "title": "Grids are boring and other thoughts on design systems",
+      "event": "Friends of Figma, Berlin",
+      "location": "Berlin"
+    },
+    {
+      "id": "bWpEsdxwOe5ntiM2OWDa",
+      "year": "2024",
+      "heading": "Maybe it's time to rethink atomic design at Friends of Figma, Stockholm",
+      "url": "https://friends.figma.com/events/details/figma-stockholm-presents-qampa-with-luis-from-figma/",
+      "collaborators": [],
+      "description": "My proposal for a new system, replacing atomic design. Slide here: <https://www.figma.com/community/file/1439225592007315835/friends-of-figma-stockholm-rethinking-atomic>",
+      "attachments": [],
+      "type": "talk",
+      "title": "Maybe it's time to rethink atomic design",
+      "event": "Friends of Figma, Stockholm",
+      "location": "Stockholm"
+    },
+    {
+      "id": "hYqDYA3WCAwxwPiWRo2u",
+      "year": "2024",
+      "heading": "Building Components for Consumption, not Complexity at Hatch Conference",
+      "url": "https://mixers.hatchconference.com/berlin-figma/",
+      "collaborators": [],
+      "description": "A talk version of my Smashing Magazine articles.\n\nSlides here: https://www.figma.com/community/file/1422568330569364751/hatch-conference-berlin-mixer-event-building-composable-components",
+      "attachments": [],
+      "type": "talk",
+      "title": "Building Components for Consumption, not Complexity",
+      "event": "Hatch Conference",
+      "location": "Berlin"
+    },
+    {
+      "id": "vrmyJCwEfk525dQaMVdC",
+      "year": "2023",
+      "heading": "Deep Dive: unlock design system scalability with variables at Figma's Config",
+      "url": "https://www.youtube.com/watch?v=M0NU5QFLCl4",
+      "collaborators": [],
+      "description": "I had the privilege of launching Figma's Variables feature at our conference Config in front of a 4k+ audience LIVE.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Deep Dive: unlock design system scalability with variables",
+      "event": "Figma's Config",
+      "location": ""
+    },
+    {
+      "id": "qTEAyBhzbF4iRiX5NJFS",
+      "year": "2023",
+      "heading": "An introduction to Figma's new feature at WaysConf",
+      "url": "https://www.youtube.com/watch?v=3CrBBaJDcuk",
+      "collaborators": [],
+      "description": "A 20 minute speed talk about Figma's variables feature! It's a bitesized introduction with some best practice advice on how to get started.",
+      "attachments": [],
+      "type": "talk",
+      "title": "An introduction to Figma's new feature",
+      "event": "WaysConf",
+      "location": "Krakow, Poland"
+    },
+    {
+      "id": "ipLEiuLychfzFlyoXLzC",
+      "year": "2023",
+      "heading": "Advocating for Designers at Figma at @DarshanGajara",
+      "url": "https://www.youtube.com/watch?v=i2q3M3ueJZ8",
+      "collaborators": [
+        {
+          "displayName": "Darshan Gajara",
+          "profilePhoto": "/content/collaborators/darshangajara.jpg",
+          "profileURL": "https://read.cv/darshangajara"
+        }
+      ],
+      "description": "An introduction to advocacy; my advice for sharing in public; the importance of building a persona brand",
+      "attachments": [],
+      "type": "talk",
+      "title": "Advocating for Designers at Figma",
+      "event": "@DarshanGajara",
+      "location": "Remote"
+    },
+    {
+      "id": "Nk3PmZlzQ9IjSWySzdjF",
+      "year": "2021",
+      "heading": "The business of design systems at Thales Annual UX Leadership Conference",
+      "url": "https://youtu.be/ZBw9tGi59uE",
+      "collaborators": [],
+      "description": "This year, Thales offered me the chance to address their leadership team with a virtual recording of a talk for their normally in-person conference.\n\nI talk about the landscape, the friction, scaling operations, and setting expectations as we start to flesh out and scale our design operations in our businesses.",
+      "attachments": [],
+      "type": "talk",
+      "title": "The business of design systems",
+      "event": "Thales Annual UX Leadership Conference",
+      "location": "Remote"
+    },
+    {
+      "id": "O0SdJ9Cm56wDHT3wBQMC",
+      "year": "2020",
+      "heading": "An introduction to design systems at Nodes of design",
+      "url": "https://www.youtube.com/watch?v=FarI7MQ-xa0",
+      "collaborators": [],
+      "description": "A guest podcast where I share advice and recommendations for getting started with design systems.",
+      "attachments": [],
+      "type": "talk",
+      "title": "An introduction to design systems",
+      "event": "Nodes of design",
+      "location": "Remote"
+    },
+    {
+      "id": "scT7P1xwuvVTA0QfQ1ut",
+      "year": "2020",
+      "heading": "A designer's workflow in 2020 at DETAUX for Designerrs",
+      "url": "https://www.youtube.com/watch?v=ew2xsSZIkws",
+      "collaborators": [],
+      "description": "A tech talk I delivered for an Indian design community to showcase the existing tool landscape for designers and where I believe things will be shifting in the future.\n\nThere's a separate Q&A session here: https://www.youtube.com/watch?v=6OWnmTPo3t8",
+      "attachments": [],
+      "type": "talk",
+      "title": "A designer's workflow in 2020",
+      "event": "DETAUX for Designerrs",
+      "location": null
+    },
+    {
+      "id": "E0JWl5TXAIPJ8dqyGxAY",
+      "year": "2020",
+      "heading": "The future of restaurants, with Precious the Foodie at Podcast",
+      "url": "https://open.spotify.com/episode/3otVD9fxrk5YVZy29B6HQ0?si=WsRp3hBDRD-EZt_h8vkspA",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "talk",
+      "title": "The future of restaurants, with Precious the Foodie",
+      "event": "Podcast",
+      "location": null
+    },
+    {
+      "id": "5SHxqxoHHVWPU9uoEJ2V",
+      "year": "2020",
+      "heading": "Nodes of Design at Podcast",
+      "url": "https://open.spotify.com/episode/5MxyVbPZoEXfNwdEFAUHDb",
+      "collaborators": [],
+      "description": "A podcast interview where I discussed the ins and outs of design systems, how to get started, and my tips and tricks.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Nodes of Design",
+      "event": "Podcast",
+      "location": null
+    }
+  ],
+  "writing": [
+    {
+      "id": "ubogdkgestEG5p8SJ7oA",
+      "year": "2023",
+      "heading": "Building Components For Consumption, Not Complexity (Part 1), Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/",
+      "collaborators": [],
+      "description": "A mega article with my advice on building design systems in Figma to encourage usage, introducing the FRAILS framework.",
+      "attachments": [],
+      "type": "writing",
+      "title": "Building Components For Consumption, Not Complexity (Part 1)",
+      "publisher": "Smashing Magazine"
+    },
+    {
+      "id": "ZHW4zSLYL2Z8a5n8sCAO",
+      "year": "2023",
+      "heading": "Building Components For Consumption, Not Complexity (Part 2), Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
+      "collaborators": [],
+      "description": "Part 2 concentrates on the key points from my FRAILS framework and practical tips about managing a design system that should be both robust and easy to adopt.",
+      "attachments": [],
+      "type": "writing",
+      "title": "Building Components For Consumption, Not Complexity (Part 2)",
+      "publisher": "Smashing Magazine"
+    },
+    {
+      "id": "kLZrRNKBLhSICRQYh3Gh",
+      "year": "2023",
+      "heading": "Workspaces in Figma Enterprise, Figma",
+      "url": "https://www.figma.com/best-practices/workspaces-in-figma-enterprise/",
+      "collaborators": [],
+      "description": "Advice on structure for the largest enterprises using Figma.",
+      "attachments": [],
+      "type": "writing",
+      "title": "Workspaces in Figma Enterprise",
+      "publisher": "Figma"
+    },
+    {
+      "id": "wLQY0D5HROSd9vC2CudG",
+      "year": "2022",
+      "heading": "Team, project, and file organization, Figma",
+      "url": "https://www.figma.com/best-practices/team-file-organization/",
+      "collaborators": [],
+      "description": "A mega guide with best practice for structuring your Figma account.",
+      "attachments": [],
+      "type": "writing",
+      "title": "Team, project, and file organization",
+      "publisher": "Figma"
+    }
+  ],
+  "awards": [
+    {
+      "id": "2qxqKZkdIG5DcJrfyr6z",
+      "year": "2012",
+      "heading": "Direct merchant of the year from IWC Merchant Awards",
+      "url": "https://www.iwcmerchantawards.com/uk/merchant-award-results-2012.html",
+      "collaborators": [],
+      "description": "Our plucky wine ecommerce startup won the Direct Merchant of the Year award, highlighting the incredible work we produced on our website. We were up against all major wine retailers, so this felt very special.",
+      "attachments": [],
+      "type": "award",
+      "title": "Direct merchant of the year",
+      "presenter": "IWC Merchant Awards"
+    }
+  ],
+  "features": [
+    {
+      "id": "Rz2LInE4PCios9cN1j6q",
+      "year": "2024",
+      "heading": "The Basics Of Design Systems Explained With Luis Ouriach From @Figma on furquan101",
+      "url": "https://www.youtube.com/watch?v=_aHzChhQ3so",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "feature",
+      "title": "The Basics Of Design Systems Explained With Luis Ouriach From @Figma",
+      "publisher": "furquan101"
+    },
+    {
+      "id": "cGndlLrQWQy16uuqVTN0",
+      "year": "2020",
+      "heading": "Speaking with Luis Ouriach on The UX Syndicate",
+      "url": "https://www.theuxsyndicate.com/interview/2019/10/23/luis-ouriach-lead-designer-at-upgrade-pack/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "feature",
+      "title": "Speaking with Luis Ouriach",
+      "publisher": "The UX Syndicate"
+    },
+    {
+      "id": "Vp1bdfd4ySQTkhzb5uHj",
+      "year": "2019",
+      "heading": "Product designer stories – Luis Ouriach on User League",
+      "url": "http://userleague.com/luis-ouriach/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "feature",
+      "title": "Product designer stories – Luis Ouriach",
+      "publisher": "User League"
+    },
+    {
+      "id": "e5WLXp4CdaxCZiy1hYDC",
+      "year": "2018",
+      "heading": "Dropbox and a designer's workflow on Dropbox",
+      "url": "https://dropeverything.com.au/post/designers-workflow",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "feature",
+      "title": "Dropbox and a designer's workflow",
+      "publisher": "Dropbox"
+    },
+    {
+      "id": "y2DoqlF5Md9K20g23Rhi",
+      "year": "2017",
+      "heading": "How I got my job at Local Measure on How I Got Job",
+      "url": "https://howigotjob.com/product-designer/got-product-designer-job-local-measure/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "feature",
+      "title": "How I got my job at Local Measure",
+      "publisher": "How I Got Job"
+    },
+    {
+      "id": "YhJhB2ITIpZ0jzt4tqEG",
+      "year": "2017",
+      "heading": "Why core values matter for employees and customers on Local Measure",
+      "url": "https://www.localmeasure.com/post/core-values-matter-employees-customers",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "feature",
+      "title": "Why core values matter for employees and customers",
+      "publisher": "Local Measure"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "105gYpv1qsnWzloXtYoV",
+      "year": "2020 — Now",
+      "heading": "Designer Advocate at Figma",
+      "url": "http://figma.com",
+      "collaborators": [
+        {
+          "displayName": "Noah Levin",
+          "profilePhoto": "/content/collaborators/noah.jpg",
+          "profileURL": "https://read.cv/noah"
+        },
+        {
+          "displayName": "Clara Ujiie",
+          "profilePhoto": "/content/collaborators/claraujiie.jpg",
+          "profileURL": "https://read.cv/claraujiie"
+        },
+        {
+          "displayName": "Keeyen",
+          "profilePhoto": "/content/collaborators/ky.jpg",
+          "profileURL": "https://read.cv/ky"
+        },
+        {
+          "displayName": "Anthony DiSpezio",
+          "profilePhoto": "/content/collaborators/adispezio.jpg",
+          "profileURL": "https://read.cv/adispezio"
+        },
+        {
+          "displayName": "Hugo Raymond",
+          "profilePhoto": "/content/collaborators/_hraymond.jpg",
+          "profileURL": "https://read.cv/_hraymond"
+        },
+        {
+          "displayName": "Tom Lowry",
+          "profilePhoto": "/content/collaborators/tlowry.jpg",
+          "profileURL": "https://read.cv/tlowry"
+        },
+        {
+          "displayName": "Rogie",
+          "profilePhoto": "/content/collaborators/rogie.jpg",
+          "profileURL": "https://read.cv/rogie"
+        },
+        {
+          "displayName": "jake",
+          "profilePhoto": "/content/collaborators/jak_e.jpg",
+          "profileURL": "https://read.cv/jak_e"
+        },
+        {
+          "displayName": "Laura Fehre",
+          "profilePhoto": "/content/collaborators/wargewesen.jpg",
+          "profileURL": "https://read.cv/wargewesen"
+        }
+      ],
+      "description": "Summary\\\n• Employee #6 in London, establishing EMEA advocacy as first non-sales IC\\\n• Helped hire and grow advocacy team in EMEA to 5\\\n• Established myself as a globally recognised design systems expert through resource creation, consultancy, and public-facing conferences, livestreams, and events\\\n\\\nProjects\\\n• Solo designer of Simple Design System, Figma’s first official in-product library\\\n• Launched Variables, presenting at Config to \\~4k+ people\\\n• Built customer-facing demo assets with the brand team for enterprise sales customer onboarding and training\\\n\\\nRecognised expertise\\\n• Crafted best practice advice files, articles, videos across Community, YouTube, and the Figma blog. \\\n• Community files duplicated \\~50k+ times\\\n• Scripted and recorded “My First Variable” YouTube series. \\~90k views.\\\n• Represented Figma in Belgium, Germany, Ireland, Poland, Spain, Sweden, and the US\\\n\\\nConsulting\\\n• Customer-facing design systems expert for 300+ enterprise clients, including JP Morgan Chase, Airbus, Adobe, Spotify, and British Airways.\\\n\\\nCommunity\\\n• Coached speakers for 6 Config conferences\\\n• Grew design systems focused personal Twitter account from 1.4k to \\~60k followers in 4.5 years",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Designer Advocate",
+      "company": "Figma",
+      "location": "London"
+    },
+    {
+      "id": "U3S9xAXUhnyGcGBVGokC",
+      "year": "2018 — 2020",
+      "heading": "Lead Designer at Upgrade Pack",
+      "url": "http://upgradepack.com",
+      "collaborators": [],
+      "description": "A first-to-market travel upgrade app, backed by £5m investment (Jan 2020).\nAchievements:\n• Hired as first designer within the business, realising all design processes\n• Planning, building and scaling the Upgrade Pack design system, Dolly\n• Lead design of Seedrs.com round, raising £500k+ in ~14 days (March 2019)\n• Hired Junior UI; Junior UX; 4 Developers; PM; Marketing Executive\n• Drove Product and Design Medium.com publication, where I act as editor",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Lead Designer",
+      "company": "Upgrade Pack",
+      "location": "London"
+    },
+    {
+      "id": "ByYQ5RSZdswf9GmKWePS",
+      "year": "2017 — 2018",
+      "heading": "Product Designer at Local Measure",
+      "url": "http://localmeasure.com",
+      "collaborators": [],
+      "description": "Local Measure build a social CRM for the hospitality industry.\n• Lead design of the iOS app\n• Design and develop features for the web dashboard\n• Design and develop the customer facing WordPress website.\nI designed and built the front end of a during-stay review platform. Once\n\ncustomers sign in to hotel WiFi, they are presented with a unique emoji-\nbased review system. This positively impacted hotel NPS scores and\n\nestablished a new revenue stream for Local Measure.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Local Measure",
+      "location": "Sydney"
+    },
+    {
+      "id": "A8P26XqnqhYoK3wKFCVT",
+      "year": "2014 — 2017",
+      "heading": "Lead Designer at Newsweek",
+      "url": "http://newsweek.com",
+      "collaborators": [],
+      "description": "Newsweek Media Group produces the historic magazine and IBTimes.co.uk.\n• Advertorials for TAG Heuer, Hublot and Wembley Stadium, worth £150k\n• Drove newsletter partnerships, forming new £5k per send revenue stream\n• Scaled newsletter from 70k to 365k in 9 months with incentivised paywall\n• Design of infographics and maps to support breaking global news stories\n• Interviewing, hiring and mentoring of a data journalist\n• Feature video art direction.\n• Print advertisements and iAB approved digital banners for magazine\n• iPhone & iPad app presentations, iAD banners and promotional collateral",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Lead Designer",
+      "company": "Newsweek",
+      "location": "London"
+    },
+    {
+      "id": "Rf0knt3Nvd3lVDZBGBaP",
+      "year": "2013 — 2014",
+      "heading": "Web Designer at YouthNet.org",
+      "url": "http://TheMix.org",
+      "collaborators": [],
+      "description": "• theSite.org - WordPress development and landing page design\n• Stepfinder.org - Minisite design and build to promote iPhone app release\n• Workshops to develop personas and justify product design decisions\n• Vlogging series to help 16-25 year olds manage exam stress",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Web Designer",
+      "company": "YouthNet.org",
+      "location": "London"
+    },
+    {
+      "id": "sr9LEAkQkzmHSOAS08qa",
+      "year": "2011 — 2013",
+      "heading": "Web Designer at Slurp.co.uk",
+      "url": "http://Slurp.co.uk",
+      "collaborators": [],
+      "description": "• Sole designer and front end developer for the UK and Asia businesses\n• Worked remotely with Bangalore-based backend team\n• Full redesign and front end of ecommerce website\n• Daily deals and fine wine platform scoping, design, and build\n• Supported launch of French and German verticals",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Web Designer",
+      "company": "Slurp.co.uk",
+      "location": "London"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "BjJJspp7HyRNs5zeCxxh",
+      "year": "2008 — 2011",
+      "heading": "BA New Media at University of Leeds",
+      "url": "http://leeds.ac.uk",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "BA New Media",
+      "school": "University of Leeds",
+      "location": "Leeds, England"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "9PjeYsSJUGyTpukKMYjq",
+      "platform": "Bluesky",
+      "handle": "discolu",
+      "url": "https://bsky.app/profile/discolu.bsky.social"
+    },
+    {
+      "id": "U4mZVpgdVZr0VEkqn4IZ",
+      "platform": "Figma",
+      "handle": "disco_lu",
+      "url": "https://figma.com/@disco_lu"
+    },
+    {
+      "id": "el9zh1snclIXiRGLXkg4",
+      "platform": "LinkedIn",
+      "handle": "luisouriach",
+      "url": "https://linkedin.com/in/luisouriach"
+    },
+    {
+      "id": "2ZZs7VPKEn8ZLMkJVkxg",
+      "platform": "Twitter",
+      "handle": "disco_lu",
+      "url": "https://twitter.com/disco_lu"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "VmBHkcQfNGmYIlNU3xMx",
+          "year": "2024",
+          "heading": "shadcn Figma Kit",
+          "url": "https://www.figma.com/community/file/1414738876845632189/shadcn-figma-kit",
+          "collaborators": [],
+          "description": "A starter for anyone looking to build using the popular shadcn framework. It's a (very close!) 1:1 match between Figma and the shadcn documentation, including:\n\n1. Variables for color, size, and typography\n\n2. Styles for text and effects\n\n3. Components\n\n4. Icons\n\n5. Example pattern blocks e.g. a login form\n\n6. Page templates as components",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/shadcn-Figma-Kit.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "shadcn Figma Kit",
+          "company": ""
+        },
+        {
+          "id": "xv6lGAfJyTXCwWuL0i4F",
+          "year": "2024",
+          "heading": "Simple Design System at Figma",
+          "url": "https://www.figma.com/community/file/1380235722331273046/simple-design-system",
+          "collaborators": [
+            {
+              "displayName": "jake",
+              "profilePhoto": "/content/collaborators/jak_e.jpg",
+              "profileURL": "https://read.cv/jak_e"
+            }
+          ],
+          "description": "SDS was a first for Figma – a UI and code-backed design system available within Figma, alongside Apple's iOS and Material's kits.\n\nIt's a base design system that shows how Figma’s Variables, Styles, Components, and Code Connect can be used alongside a React codebase to form a complete picture of a responsive web design system.\n\nKey features include:\n\n* 400+ components, backed by code (Code Connect available on paid plans only)\n\n* Styles and variables support, including light and dark mode\n\n* Examples – Full screen mockups that can be inserted into your file to go from blank page to polished designs quickly\n\n* Feather icons",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 960,
+              "height": 540,
+              "url": "/content/media/Simple-Design-System-at-Figma.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Simple Design System",
+          "company": "Figma"
+        },
+        {
+          "id": "3hyILySPPwiV9C4jf1ME",
+          "year": "2024",
+          "heading": "My First Variable at Figma",
+          "url": "https://www.youtube.com/playlist?list=PLXDU_eVOJTx6V9PNAxvagzaMWHDFOsYQI",
+          "collaborators": [],
+          "description": "A 10 part video series pitched, recorded, and published for the Figma YouTube channel, walking you through how to use the Variables feature.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 960,
+              "height": 540,
+              "url": "/content/media/My-First-Variable-at-Figma.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "My First Variable",
+          "company": "Figma"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "eW5szTkHy2alN5cgarBu",
+          "year": "Ongoing",
+          "heading": "Milk, No Sugar",
+          "url": "http://milknosugar.substack.com",
+          "collaborators": [],
+          "description": "My newsletter where I'm trying to remove small talk from conversations, one piece of content at a time.\n\nI highlight something to think about, 3 articles, and a podcast for you to digest.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Milk, No Sugar",
+          "company": ""
+        },
+        {
+          "id": "MVsRvFyq9M3TrlWZ2KB2",
+          "year": "Ongoing",
+          "heading": "Design and Whine",
+          "url": "https://anchor.fm/design-and-whine",
+          "collaborators": [
+            {
+              "displayName": "Au",
+              "profilePhoto": "/content/collaborators/auareyou.jpg",
+              "profileURL": "https://read.cv/auareyou"
+            }
+          ],
+          "description": "A podcast by designers, where we don't talk about design.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Design and Whine",
+          "company": ""
+        },
+        {
+          "id": "rBUPqJd9SNUUgTrg1wpI",
+          "year": "Ongoing",
+          "heading": "8px Radio",
+          "url": "https://open.spotify.com/show/109siO7k8TblAWvQpEB1PB?si=065f760e16c94098",
+          "collaborators": [],
+          "description": "My podcast where I interview designers and ask them all the same 5 questions.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "8px Radio",
+          "company": ""
+        },
+        {
+          "id": "PAep4V3yzkNnj5cyytv8",
+          "year": "2020",
+          "heading": "Unmasked at 8px",
+          "url": "https://unmasked.8px.design/",
+          "collaborators": [],
+          "description": "British companies where you can buy face coverings from, in the wake of COVID-19.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Unmasked",
+          "company": "8px"
+        },
+        {
+          "id": "Z9Kw6u6cn3HYZDdidDlu",
+          "year": "2019",
+          "heading": "Shop Indie at 8px",
+          "url": "https://shopindie.8px.design/",
+          "collaborators": [],
+          "description": "A directory of products from smaller global producers.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Shop Indie",
+          "company": "8px"
+        },
+        {
+          "id": "6yfNSBEFNpzH97K3km9H",
+          "year": "2018",
+          "heading": "Noise Podcast",
+          "url": "http://anchor.fm/thenoisepod",
+          "collaborators": [],
+          "description": "Podcast series speaking with designesr across the globe about their passions.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Noise Podcast",
+          "company": null
+        },
+        {
+          "id": "ZMdrnkexaLdgvsGp5OB6",
+          "year": "2017",
+          "heading": "Sketch Typography Starter Kit at 8px",
+          "url": "http://8px.design/typography-starter-kit/",
+          "collaborators": [],
+          "description": "A freebie where designers can save time with their typography system. Hosting the resource on Gumroad, I landed 553 sales.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Sketch Typography Starter Kit",
+          "company": "8px"
+        },
+        {
+          "id": "qWpf4H6apYnGpqzvImzq",
+          "year": "2017",
+          "heading": "Junior Design Jobs at 8px",
+          "url": "http://juniordesignjobs.com",
+          "collaborators": [],
+          "description": "Junior jobs are scarce, so I built a website to list only junior jobs in London. I originally had jobs from major cities across the globe, but the site was hacked and I had to start from scratch 😭",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Junior Design Jobs",
+          "company": "8px"
+        },
+        {
+          "id": "g49l7wCkYsw2V8hfHXNg",
+          "year": "2017",
+          "heading": "8px Magazine",
+          "url": "http://medium.com/8px-magazine",
+          "collaborators": [],
+          "description": "Publication to showcase the human side of designers.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "8px Magazine",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Speaking",
+      "items": [
+        {
+          "id": "MeJa28rRfg5amIjXotaA",
+          "year": "2024",
+          "heading": "Grids are boring and other thoughts on design systems at Friends of Figma, Berlin",
+          "url": "https://friends.figma.com/events/details/figma-berlin-presents-grids-are-boring-and-other-design-system-opinions-feat-luis-from-figma/",
+          "collaborators": [],
+          "description": "My take on how the 8px grid system could be shaken up by using odd numbers.\n\nSlides here: <https://www.figma.com/community/file/1439231393000952196/friends-of-figma-berlin-grids-are-boring>",
+          "attachments": [],
+          "type": "talk",
+          "title": "Grids are boring and other thoughts on design systems",
+          "event": "Friends of Figma, Berlin",
+          "location": "Berlin"
+        },
+        {
+          "id": "bWpEsdxwOe5ntiM2OWDa",
+          "year": "2024",
+          "heading": "Maybe it's time to rethink atomic design at Friends of Figma, Stockholm",
+          "url": "https://friends.figma.com/events/details/figma-stockholm-presents-qampa-with-luis-from-figma/",
+          "collaborators": [],
+          "description": "My proposal for a new system, replacing atomic design. Slide here: <https://www.figma.com/community/file/1439225592007315835/friends-of-figma-stockholm-rethinking-atomic>",
+          "attachments": [],
+          "type": "talk",
+          "title": "Maybe it's time to rethink atomic design",
+          "event": "Friends of Figma, Stockholm",
+          "location": "Stockholm"
+        },
+        {
+          "id": "hYqDYA3WCAwxwPiWRo2u",
+          "year": "2024",
+          "heading": "Building Components for Consumption, not Complexity at Hatch Conference",
+          "url": "https://mixers.hatchconference.com/berlin-figma/",
+          "collaborators": [],
+          "description": "A talk version of my Smashing Magazine articles.\n\nSlides here: https://www.figma.com/community/file/1422568330569364751/hatch-conference-berlin-mixer-event-building-composable-components",
+          "attachments": [],
+          "type": "talk",
+          "title": "Building Components for Consumption, not Complexity",
+          "event": "Hatch Conference",
+          "location": "Berlin"
+        },
+        {
+          "id": "vrmyJCwEfk525dQaMVdC",
+          "year": "2023",
+          "heading": "Deep Dive: unlock design system scalability with variables at Figma's Config",
+          "url": "https://www.youtube.com/watch?v=M0NU5QFLCl4",
+          "collaborators": [],
+          "description": "I had the privilege of launching Figma's Variables feature at our conference Config in front of a 4k+ audience LIVE.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Deep Dive: unlock design system scalability with variables",
+          "event": "Figma's Config",
+          "location": ""
+        },
+        {
+          "id": "qTEAyBhzbF4iRiX5NJFS",
+          "year": "2023",
+          "heading": "An introduction to Figma's new feature at WaysConf",
+          "url": "https://www.youtube.com/watch?v=3CrBBaJDcuk",
+          "collaborators": [],
+          "description": "A 20 minute speed talk about Figma's variables feature! It's a bitesized introduction with some best practice advice on how to get started.",
+          "attachments": [],
+          "type": "talk",
+          "title": "An introduction to Figma's new feature",
+          "event": "WaysConf",
+          "location": "Krakow, Poland"
+        },
+        {
+          "id": "ipLEiuLychfzFlyoXLzC",
+          "year": "2023",
+          "heading": "Advocating for Designers at Figma at @DarshanGajara",
+          "url": "https://www.youtube.com/watch?v=i2q3M3ueJZ8",
+          "collaborators": [
+            {
+              "displayName": "Darshan Gajara",
+              "profilePhoto": "/content/collaborators/darshangajara.jpg",
+              "profileURL": "https://read.cv/darshangajara"
+            }
+          ],
+          "description": "An introduction to advocacy; my advice for sharing in public; the importance of building a persona brand",
+          "attachments": [],
+          "type": "talk",
+          "title": "Advocating for Designers at Figma",
+          "event": "@DarshanGajara",
+          "location": "Remote"
+        },
+        {
+          "id": "Nk3PmZlzQ9IjSWySzdjF",
+          "year": "2021",
+          "heading": "The business of design systems at Thales Annual UX Leadership Conference",
+          "url": "https://youtu.be/ZBw9tGi59uE",
+          "collaborators": [],
+          "description": "This year, Thales offered me the chance to address their leadership team with a virtual recording of a talk for their normally in-person conference.\n\nI talk about the landscape, the friction, scaling operations, and setting expectations as we start to flesh out and scale our design operations in our businesses.",
+          "attachments": [],
+          "type": "talk",
+          "title": "The business of design systems",
+          "event": "Thales Annual UX Leadership Conference",
+          "location": "Remote"
+        },
+        {
+          "id": "O0SdJ9Cm56wDHT3wBQMC",
+          "year": "2020",
+          "heading": "An introduction to design systems at Nodes of design",
+          "url": "https://www.youtube.com/watch?v=FarI7MQ-xa0",
+          "collaborators": [],
+          "description": "A guest podcast where I share advice and recommendations for getting started with design systems.",
+          "attachments": [],
+          "type": "talk",
+          "title": "An introduction to design systems",
+          "event": "Nodes of design",
+          "location": "Remote"
+        },
+        {
+          "id": "scT7P1xwuvVTA0QfQ1ut",
+          "year": "2020",
+          "heading": "A designer's workflow in 2020 at DETAUX for Designerrs",
+          "url": "https://www.youtube.com/watch?v=ew2xsSZIkws",
+          "collaborators": [],
+          "description": "A tech talk I delivered for an Indian design community to showcase the existing tool landscape for designers and where I believe things will be shifting in the future.\n\nThere's a separate Q&A session here: https://www.youtube.com/watch?v=6OWnmTPo3t8",
+          "attachments": [],
+          "type": "talk",
+          "title": "A designer's workflow in 2020",
+          "event": "DETAUX for Designerrs",
+          "location": null
+        },
+        {
+          "id": "E0JWl5TXAIPJ8dqyGxAY",
+          "year": "2020",
+          "heading": "The future of restaurants, with Precious the Foodie at Podcast",
+          "url": "https://open.spotify.com/episode/3otVD9fxrk5YVZy29B6HQ0?si=WsRp3hBDRD-EZt_h8vkspA",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "talk",
+          "title": "The future of restaurants, with Precious the Foodie",
+          "event": "Podcast",
+          "location": null
+        },
+        {
+          "id": "5SHxqxoHHVWPU9uoEJ2V",
+          "year": "2020",
+          "heading": "Nodes of Design at Podcast",
+          "url": "https://open.spotify.com/episode/5MxyVbPZoEXfNwdEFAUHDb",
+          "collaborators": [],
+          "description": "A podcast interview where I discussed the ins and outs of design systems, how to get started, and my tips and tricks.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Nodes of Design",
+          "event": "Podcast",
+          "location": null
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "ubogdkgestEG5p8SJ7oA",
+          "year": "2023",
+          "heading": "Building Components For Consumption, Not Complexity (Part 1), Smashing Magazine",
+          "url": "https://www.smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/",
+          "collaborators": [],
+          "description": "A mega article with my advice on building design systems in Figma to encourage usage, introducing the FRAILS framework.",
+          "attachments": [],
+          "type": "writing",
+          "title": "Building Components For Consumption, Not Complexity (Part 1)",
+          "publisher": "Smashing Magazine"
+        },
+        {
+          "id": "ZHW4zSLYL2Z8a5n8sCAO",
+          "year": "2023",
+          "heading": "Building Components For Consumption, Not Complexity (Part 2), Smashing Magazine",
+          "url": "https://www.smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
+          "collaborators": [],
+          "description": "Part 2 concentrates on the key points from my FRAILS framework and practical tips about managing a design system that should be both robust and easy to adopt.",
+          "attachments": [],
+          "type": "writing",
+          "title": "Building Components For Consumption, Not Complexity (Part 2)",
+          "publisher": "Smashing Magazine"
+        },
+        {
+          "id": "kLZrRNKBLhSICRQYh3Gh",
+          "year": "2023",
+          "heading": "Workspaces in Figma Enterprise, Figma",
+          "url": "https://www.figma.com/best-practices/workspaces-in-figma-enterprise/",
+          "collaborators": [],
+          "description": "Advice on structure for the largest enterprises using Figma.",
+          "attachments": [],
+          "type": "writing",
+          "title": "Workspaces in Figma Enterprise",
+          "publisher": "Figma"
+        },
+        {
+          "id": "wLQY0D5HROSd9vC2CudG",
+          "year": "2022",
+          "heading": "Team, project, and file organization, Figma",
+          "url": "https://www.figma.com/best-practices/team-file-organization/",
+          "collaborators": [],
+          "description": "A mega guide with best practice for structuring your Figma account.",
+          "attachments": [],
+          "type": "writing",
+          "title": "Team, project, and file organization",
+          "publisher": "Figma"
+        }
+      ]
+    },
+    {
+      "name": "Features",
+      "items": [
+        {
+          "id": "Rz2LInE4PCios9cN1j6q",
+          "year": "2024",
+          "heading": "The Basics Of Design Systems Explained With Luis Ouriach From @Figma on furquan101",
+          "url": "https://www.youtube.com/watch?v=_aHzChhQ3so",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "feature",
+          "title": "The Basics Of Design Systems Explained With Luis Ouriach From @Figma",
+          "publisher": "furquan101"
+        },
+        {
+          "id": "cGndlLrQWQy16uuqVTN0",
+          "year": "2020",
+          "heading": "Speaking with Luis Ouriach on The UX Syndicate",
+          "url": "https://www.theuxsyndicate.com/interview/2019/10/23/luis-ouriach-lead-designer-at-upgrade-pack/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "feature",
+          "title": "Speaking with Luis Ouriach",
+          "publisher": "The UX Syndicate"
+        },
+        {
+          "id": "Vp1bdfd4ySQTkhzb5uHj",
+          "year": "2019",
+          "heading": "Product designer stories – Luis Ouriach on User League",
+          "url": "http://userleague.com/luis-ouriach/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "feature",
+          "title": "Product designer stories – Luis Ouriach",
+          "publisher": "User League"
+        },
+        {
+          "id": "e5WLXp4CdaxCZiy1hYDC",
+          "year": "2018",
+          "heading": "Dropbox and a designer's workflow on Dropbox",
+          "url": "https://dropeverything.com.au/post/designers-workflow",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "feature",
+          "title": "Dropbox and a designer's workflow",
+          "publisher": "Dropbox"
+        },
+        {
+          "id": "y2DoqlF5Md9K20g23Rhi",
+          "year": "2017",
+          "heading": "How I got my job at Local Measure on How I Got Job",
+          "url": "https://howigotjob.com/product-designer/got-product-designer-job-local-measure/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "feature",
+          "title": "How I got my job at Local Measure",
+          "publisher": "How I Got Job"
+        },
+        {
+          "id": "YhJhB2ITIpZ0jzt4tqEG",
+          "year": "2017",
+          "heading": "Why core values matter for employees and customers on Local Measure",
+          "url": "https://www.localmeasure.com/post/core-values-matter-employees-customers",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "feature",
+          "title": "Why core values matter for employees and customers",
+          "publisher": "Local Measure"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "105gYpv1qsnWzloXtYoV",
+          "year": "2020 — Now",
+          "heading": "Designer Advocate at Figma",
+          "url": "http://figma.com",
+          "collaborators": [
+            {
+              "displayName": "Noah Levin",
+              "profilePhoto": "/content/collaborators/noah.jpg",
+              "profileURL": "https://read.cv/noah"
+            },
+            {
+              "displayName": "Clara Ujiie",
+              "profilePhoto": "/content/collaborators/claraujiie.jpg",
+              "profileURL": "https://read.cv/claraujiie"
+            },
+            {
+              "displayName": "Keeyen",
+              "profilePhoto": "/content/collaborators/ky.jpg",
+              "profileURL": "https://read.cv/ky"
+            },
+            {
+              "displayName": "Anthony DiSpezio",
+              "profilePhoto": "/content/collaborators/adispezio.jpg",
+              "profileURL": "https://read.cv/adispezio"
+            },
+            {
+              "displayName": "Hugo Raymond",
+              "profilePhoto": "/content/collaborators/_hraymond.jpg",
+              "profileURL": "https://read.cv/_hraymond"
+            },
+            {
+              "displayName": "Tom Lowry",
+              "profilePhoto": "/content/collaborators/tlowry.jpg",
+              "profileURL": "https://read.cv/tlowry"
+            },
+            {
+              "displayName": "Rogie",
+              "profilePhoto": "/content/collaborators/rogie.jpg",
+              "profileURL": "https://read.cv/rogie"
+            },
+            {
+              "displayName": "jake",
+              "profilePhoto": "/content/collaborators/jak_e.jpg",
+              "profileURL": "https://read.cv/jak_e"
+            },
+            {
+              "displayName": "Laura Fehre",
+              "profilePhoto": "/content/collaborators/wargewesen.jpg",
+              "profileURL": "https://read.cv/wargewesen"
+            }
+          ],
+          "description": "Summary\\\n• Employee #6 in London, establishing EMEA advocacy as first non-sales IC\\\n• Helped hire and grow advocacy team in EMEA to 5\\\n• Established myself as a globally recognised design systems expert through resource creation, consultancy, and public-facing conferences, livestreams, and events\\\n\\\nProjects\\\n• Solo designer of Simple Design System, Figma’s first official in-product library\\\n• Launched Variables, presenting at Config to \\~4k+ people\\\n• Built customer-facing demo assets with the brand team for enterprise sales customer onboarding and training\\\n\\\nRecognised expertise\\\n• Crafted best practice advice files, articles, videos across Community, YouTube, and the Figma blog. \\\n• Community files duplicated \\~50k+ times\\\n• Scripted and recorded “My First Variable” YouTube series. \\~90k views.\\\n• Represented Figma in Belgium, Germany, Ireland, Poland, Spain, Sweden, and the US\\\n\\\nConsulting\\\n• Customer-facing design systems expert for 300+ enterprise clients, including JP Morgan Chase, Airbus, Adobe, Spotify, and British Airways.\\\n\\\nCommunity\\\n• Coached speakers for 6 Config conferences\\\n• Grew design systems focused personal Twitter account from 1.4k to \\~60k followers in 4.5 years",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Designer Advocate",
+          "company": "Figma",
+          "location": "London"
+        },
+        {
+          "id": "U3S9xAXUhnyGcGBVGokC",
+          "year": "2018 — 2020",
+          "heading": "Lead Designer at Upgrade Pack",
+          "url": "http://upgradepack.com",
+          "collaborators": [],
+          "description": "A first-to-market travel upgrade app, backed by £5m investment (Jan 2020).\nAchievements:\n• Hired as first designer within the business, realising all design processes\n• Planning, building and scaling the Upgrade Pack design system, Dolly\n• Lead design of Seedrs.com round, raising £500k+ in ~14 days (March 2019)\n• Hired Junior UI; Junior UX; 4 Developers; PM; Marketing Executive\n• Drove Product and Design Medium.com publication, where I act as editor",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Lead Designer",
+          "company": "Upgrade Pack",
+          "location": "London"
+        },
+        {
+          "id": "ByYQ5RSZdswf9GmKWePS",
+          "year": "2017 — 2018",
+          "heading": "Product Designer at Local Measure",
+          "url": "http://localmeasure.com",
+          "collaborators": [],
+          "description": "Local Measure build a social CRM for the hospitality industry.\n• Lead design of the iOS app\n• Design and develop features for the web dashboard\n• Design and develop the customer facing WordPress website.\nI designed and built the front end of a during-stay review platform. Once\n\ncustomers sign in to hotel WiFi, they are presented with a unique emoji-\nbased review system. This positively impacted hotel NPS scores and\n\nestablished a new revenue stream for Local Measure.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Local Measure",
+          "location": "Sydney"
+        },
+        {
+          "id": "A8P26XqnqhYoK3wKFCVT",
+          "year": "2014 — 2017",
+          "heading": "Lead Designer at Newsweek",
+          "url": "http://newsweek.com",
+          "collaborators": [],
+          "description": "Newsweek Media Group produces the historic magazine and IBTimes.co.uk.\n• Advertorials for TAG Heuer, Hublot and Wembley Stadium, worth £150k\n• Drove newsletter partnerships, forming new £5k per send revenue stream\n• Scaled newsletter from 70k to 365k in 9 months with incentivised paywall\n• Design of infographics and maps to support breaking global news stories\n• Interviewing, hiring and mentoring of a data journalist\n• Feature video art direction.\n• Print advertisements and iAB approved digital banners for magazine\n• iPhone & iPad app presentations, iAD banners and promotional collateral",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Lead Designer",
+          "company": "Newsweek",
+          "location": "London"
+        },
+        {
+          "id": "Rf0knt3Nvd3lVDZBGBaP",
+          "year": "2013 — 2014",
+          "heading": "Web Designer at YouthNet.org",
+          "url": "http://TheMix.org",
+          "collaborators": [],
+          "description": "• theSite.org - WordPress development and landing page design\n• Stepfinder.org - Minisite design and build to promote iPhone app release\n• Workshops to develop personas and justify product design decisions\n• Vlogging series to help 16-25 year olds manage exam stress",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Web Designer",
+          "company": "YouthNet.org",
+          "location": "London"
+        },
+        {
+          "id": "sr9LEAkQkzmHSOAS08qa",
+          "year": "2011 — 2013",
+          "heading": "Web Designer at Slurp.co.uk",
+          "url": "http://Slurp.co.uk",
+          "collaborators": [],
+          "description": "• Sole designer and front end developer for the UK and Asia businesses\n• Worked remotely with Bangalore-based backend team\n• Full redesign and front end of ecommerce website\n• Daily deals and fine wine platform scoping, design, and build\n• Supported launch of French and German verticals",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Web Designer",
+          "company": "Slurp.co.uk",
+          "location": "London"
+        }
+      ]
+    },
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "2qxqKZkdIG5DcJrfyr6z",
+          "year": "2012",
+          "heading": "Direct merchant of the year from IWC Merchant Awards",
+          "url": "https://www.iwcmerchantawards.com/uk/merchant-award-results-2012.html",
+          "collaborators": [],
+          "description": "Our plucky wine ecommerce startup won the Direct Merchant of the Year award, highlighting the incredible work we produced on our website. We were up against all major wine retailers, so this felt very special.",
+          "attachments": [],
+          "type": "award",
+          "title": "Direct merchant of the year",
+          "presenter": "IWC Merchant Awards"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "BjJJspp7HyRNs5zeCxxh",
+          "year": "2008 — 2011",
+          "heading": "BA New Media at University of Leeds",
+          "url": "http://leeds.ac.uk",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "BA New Media",
+          "school": "University of Leeds",
+          "location": "Leeds, England"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "9PjeYsSJUGyTpukKMYjq",
+          "platform": "Bluesky",
+          "handle": "discolu",
+          "url": "https://bsky.app/profile/discolu.bsky.social"
+        },
+        {
+          "id": "U4mZVpgdVZr0VEkqn4IZ",
+          "platform": "Figma",
+          "handle": "disco_lu",
+          "url": "https://figma.com/@disco_lu"
+        },
+        {
+          "id": "el9zh1snclIXiRGLXkg4",
+          "platform": "LinkedIn",
+          "handle": "luisouriach",
+          "url": "https://linkedin.com/in/luisouriach"
+        },
+        {
+          "id": "2ZZs7VPKEn8ZLMkJVkxg",
+          "platform": "Twitter",
+          "handle": "disco_lu",
+          "url": "https://twitter.com/disco_lu"
+        }
+      ]
+    }
+  ]
+}
